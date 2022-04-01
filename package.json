@@ -1,0 +1,39 @@
+{
+  "name": "@stdlib/streams-node-debug",
+  "version": "0.0.0",
+  "description": "Transform stream for debugging stream pipelines.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/streams-node-debug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "stream",
+    "streams",
+    "writable",
+    "readable",
+    "transform",
+    "inspect",
+    "debug",
+    "log",
+    "monitor",
+    "tap",
+    "spy",
+    "sniff"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
