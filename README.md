@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import debugStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@esm/index.mjs';
+import debugStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@esm/index.mjs';
+import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@v0.1.0-esm/index.mjs';
 ```
 
 <a name="debug-stream"></a>
