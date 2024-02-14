@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import debugStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@deno/mod.js';
+import debugStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@deno/mod.js';
+import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-debug@v0.2.0-deno/mod.js';
 ```
 
 <a name="debug-stream"></a>
