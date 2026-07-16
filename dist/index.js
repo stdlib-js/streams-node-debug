@@ -1,4 +1,4 @@
-"use strict";var n=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var b=n(function(me,h){
+"use strict";var n=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(a){throw (r=0, a)}};};var b=n(function(me,h){
 h.exports="debug-stream"
 });var M=n(function(ge,O){
 var U=require("debug"),k=b(),z=U(k);O.exports=z
